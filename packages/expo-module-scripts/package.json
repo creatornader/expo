@@ -92,6 +92,6 @@
   },
   "devDependencies": {
     "@expo/metro": "~54.2.0",
-    "@babel/core": "^7.26.0"
+    "@babel/core": "^7.29.6"
   }
 }
